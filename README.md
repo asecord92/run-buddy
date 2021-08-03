@@ -12,3 +12,5 @@ https://asecord92.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Adam
+
+# Run Buddy Inc.
